@@ -7,7 +7,8 @@ The classic guess the number game with some extra features.
 Requirements: None
 
 Installation / Contribution: 
-    - Fork this repo
+    - Fork this repo and clone it
+    - At this point you can click on index.html to open the project
     - Create a branch within your own repo
         - Name convention of {issue-name}
     - Create a PR referencing the issue
